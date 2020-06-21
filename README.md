@@ -16,6 +16,8 @@ I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/r
 
 [__Daily__ ](https://daily.co) ([GitHub](https://github.com/daily-co), [Docs](https://docs.daily.co/docs/reference-docs)) is the only single-line API to robust video chat, using the Open Source WebRTC protocol for P2P E2E encypted live video chat. It's used by companies like [Tandem](https://tandem.chat), [Screen](https://screen.so), and [Focusmate](https://focusmate.com), and [Standuply](https://standuply.com). I have two side projects using Daily, [Meet](https://github.com/rootvc/meet) and [Roulette](https://github.com/ledwards/roulette).
 
+[__Wild Type__](https://www.wildtypefoods.com) is doing the extremely sci-fi work of replacing meat from animals with cell-cultured meat. More about that [here](https://thespoon.tech/wild-type-debuts-new-cultured-salmon-in-largest-tasting-of-lab-grown-meat/).
+
 ### Blog
 A few highlights
 - [Building our own video conferencing solution with daily.co](https://lee.af/meet-app/)
