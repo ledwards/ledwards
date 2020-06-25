@@ -39,7 +39,7 @@ A pretty good way to get to know how I think about the world of software.
 
 ### Press
 - [The time the San Francisco Chronicle wrote about my Zoom birthday party](https://www.sfchronicle.com/culture/article/Coronavirus-Staying-at-home-many-in-the-Bay-15148763.php)
-- [The time Business Insider wrote about me going to the gym](https://www.businessinsider.com/i-tried-barrys-bootcamp-a-vc-favorite-intense-fitness-program-2019-5))
+- [The time Business Insider wrote about me going to the gym](https://www.businessinsider.com/i-tried-barrys-bootcamp-a-vc-favorite-intense-fitness-program-2019-5)
 
 ### Code
 I still code for fun. A lot of my projects are kind of silly and maybe a bit overly contrived. I'll often choose a technology just to try to learn it, but I still love coding and always do a company's Hello World before investing.
