@@ -1,4 +1,4 @@
-## Hi, I'm Lee Edwards. 👋
+## Hi, I'm Lee! 👋
 🏳️‍🌈 Pronouns: he/him
 
 ### My GitHub profile is my homepage now.
