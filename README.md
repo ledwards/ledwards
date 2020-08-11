@@ -5,7 +5,7 @@ I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/r
 
 ### Companies I work with
 
-🌊 [__Meroxa__](https://meroxa.io) ([GitHub](https://github.com/meroxa, [Docs](https://docs.meroxa.com/docs)) is the easy button for data engineering. The first suite of products builds real-time data streams between data sources like relational databases and data sinks like enterprise data warehouses. Meroxa's user experience is heavily inspired by Heroku, where Co-Founder/CEO [DeVaris Brown](https://github.com/devarismeroxa) was Director of Developer Experience (DX).
+🌊 [__Meroxa__](https://meroxa.io) ([GitHub](https://github.com/meroxa), [Docs](https://docs.meroxa.com/docs)) is the easy button for data engineering. The first suite of products builds real-time data streams between data sources like relational databases and data sinks like enterprise data warehouses. Meroxa's user experience is heavily inspired by Heroku, where Co-Founder/CEO [DeVaris Brown](https://github.com/devarismeroxa) was Director of Developer Experience (DX).
 
 🧲 [__Superconductive__](https://superconductive.com) ([GitHub](https://github.com/superconductive), [Docs](https://github.com/great-expectations/great_expectations/blob/develop/README.md)) maintains the popular Open Source project [Great Expectations](https://github.com/great-expectations/great_expectations), which provides a suite of unit test-like expectations and a test runner to help data teams build robust data ecosystems and pay down [pipeline debt](https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a).
 
