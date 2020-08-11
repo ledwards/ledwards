@@ -1,22 +1,21 @@
-## Hi, I'm Lee! 👋
+## Hi, I'm Lee! 👋 My GitHub profile is my homepage now.
 🏳️‍🌈 Pronouns: he/him
-
-### My GitHub profile is my homepage now.
-*with thanks to [Mike K](https://github.com/mikekavouras) for making this awesome profile page feature.*
 
 I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/rootvc)) in San Francisco focused on investing in Seed-stage companies working on what I call [hard software](https://lee.af/what-is-hard-software) - tools and services for developers, data scientists & engineers, and other technical folks; as well as startups where AI & machine learning are the core technology. I love working with software engineers of all kinds. If your founding team are great engineers, and that's a good thing, because you're going to need it for what you're building - we'd love to talk to you.
 
 ### Companies I work with
 
-[__Superconductive__](https://superconductive.com) ([GitHub](https://github.com/superconductive), [Docs](https://github.com/great-expectations/great_expectations/blob/develop/README.md)) maintains the popular Open Source project [Great Expectations](https://github.com/great-expectations/great_expectations), which provides a suite of unit test-like expectations and a test runner to help data teams build robust data ecosystems and pay down [pipeline debt](https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a).
+🌊 [__Meroxa__](https://meroxa.io) ([GitHub](https://github.com/meroxa, [Docs](https://docs.meroxa.com/docs)) is the easy button for data engineering. The first suite of products builds real-time data streams between data sources like relational databases and data sinks like enterprise data warehouses. Meroxa's user experience is heavily inspired by Heroku, where Co-Founder/CEO [DeVaris Brown](https://github.com/devarismeroxa) was Director of Developer Experience (DX).
 
-[__HASH__](https://hash.ai) ([GitHub](https://github.com/hashintel), [Docs](https://docs.hash.ai/core/hello-world/hello-hash)) is a web-based service for building models and simulations, particularly [agent-based models and simulations](https://journal.sohostrategy.com/what-is-abm-abms-f52ff2f1f712) that draws some inspiration from [Glitch](https://glitch.com) (HASH's Chairman is Glitch founder [Joel Spolsky](https://joelonsoftware.com)). Some great examples here: [COVID-19](https://hash.ai/coronavirus).
+🧲 [__Superconductive__](https://superconductive.com) ([GitHub](https://github.com/superconductive), [Docs](https://github.com/great-expectations/great_expectations/blob/develop/README.md)) maintains the popular Open Source project [Great Expectations](https://github.com/great-expectations/great_expectations), which provides a suite of unit test-like expectations and a test runner to help data teams build robust data ecosystems and pay down [pipeline debt](https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a).
 
-[__Esper__](https://esper.io) ([GitHub](https://esper-io), [Docs](https://docs.esper.io/)) provides a suite of tools to help build and maintain enterprise Android devices at the edge with a modern devops approach. The Esper platform includes an Android Studio plugin, command line tools, API client libraries, and an enterprise-focused Android-based operating system, cloud services such as logging, deployment, update, device provisioning, APM, abd remote login.
+#️⃣ [__HASH__](https://hash.ai) ([GitHub](https://github.com/hashintel), [Docs](https://docs.hash.ai/core/hello-world/hello-hash)) is a web-based service for building models and simulations, particularly [agent-based models and simulations](https://journal.sohostrategy.com/what-is-abm-abms-f52ff2f1f712) that draws some inspiration from [Glitch](https://glitch.com) (HASH's Chairman is Glitch founder [Joel Spolsky](https://joelonsoftware.com)). Some great examples here: [COVID-19](https://hash.ai/coronavirus).
 
-[__Daily__ ](https://daily.co) ([GitHub](https://github.com/daily-co), [Docs](https://docs.daily.co/docs/reference-docs)) is the only single-line API to robust video chat, using the Open Source WebRTC protocol for P2P E2E encypted live video chat. It's used by companies like [Tandem](https://tandem.chat), [Screen](https://screen.so), and [Focusmate](https://focusmate.com), and [Standuply](https://standuply.com). I have two side projects using Daily, [Meet](https://github.com/rootvc/meet) and [Roulette](https://github.com/ledwards/roulette).
+👾 [__Esper__](https://esper.io) ([GitHub](https://esper-io), [Docs](https://docs.esper.io/)) provides a suite of tools to help build and maintain enterprise Android devices at the edge with a modern devops approach. The Esper platform includes an Android Studio plugin, command line tools, API client libraries, and an enterprise-focused Android-based operating system, cloud services such as logging, deployment, update, device provisioning, APM, abd remote login.
 
-[__Wild Type__](https://www.wildtypefoods.com) is doing the extremely sci-fi work of replacing meat from animals with cell-cultured meat. More about that [here](https://thespoon.tech/wild-type-debuts-new-cultured-salmon-in-largest-tasting-of-lab-grown-meat/).
+📅 [__Daily__ ](https://daily.co) ([GitHub](https://github.com/daily-co), [Docs](https://docs.daily.co/docs/reference-docs)) is the only single-line API to robust video chat, using the Open Source WebRTC protocol for P2P E2E encypted live video chat. It's used by companies like [Tandem](https://tandem.chat), [Screen](https://screen.so), and [Focusmate](https://focusmate.com), and [Standuply](https://standuply.com). I have two side projects using Daily, [Meet](https://github.com/rootvc/meet) and [Roulette](https://github.com/ledwards/roulette).
+
+🍣 [__Wild Type__](https://www.wildtypefoods.com) is doing the extremely sci-fi work of replacing meat from animals with cell-cultured meat. More about that [here](https://thespoon.tech/wild-type-debuts-new-cultured-salmon-in-largest-tasting-of-lab-grown-meat/).
 
 ### Blog
 A few highlights
