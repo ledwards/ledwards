@@ -3,6 +3,12 @@
 
 I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/rootvc)) in San Francisco focused on investing in Seed-stage companies working on what I call [hard software](https://lee.af/what-is-hard-software) - tools and services for developers, data scientists & engineers, and other technical folks; as well as startups where AI & machine learning are the core technology. I love working with software engineers of all kinds. If your founding team are great engineers, and that's a good thing, because you're going to need it for what you're building - we'd love to talk to you.
 
+### What I invest in
+- We invest in hard tech [(What does that mean?)](https://lee.af/hard-tech/)
+- ...at the seed stage (or pre-seed, or post-seed.)
+- I often ask these [questions](https://lee.af/what-is-hard-software/) before investing.
+- This is how I think about the [developer tools](https://twitter.com/terronk/status/1286774556317818880) and [gamedev tools](https://twitter.com/terronk/status/1298084339037528064) industries.
+
 ### Companies I work with
 
 🌊 [__Meroxa__](https://meroxa.io) ([GitHub](https://github.com/meroxa), [Docs](https://docs.meroxa.com/docs)) is the easy button for data engineering. The first suite of products builds real-time data streams between data sources like relational databases and data sinks like enterprise data warehouses. Meroxa's user experience is heavily inspired by Heroku, where Co-Founder/CEO [DeVaris Brown](https://github.com/devarismeroxa) was Director of Developer Experience (DX).
@@ -17,8 +23,9 @@ I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/r
 
 🍣 [__Wild Type__](https://www.wildtypefoods.com) is doing the extremely sci-fi work of replacing meat from animals with cell-cultured meat. More about that [here](https://thespoon.tech/wild-type-debuts-new-cultured-salmon-in-largest-tasting-of-lab-grown-meat/).
 
-### Blog
+### Writing
 A few highlights
+- [My contrarian opinions about devtools](https://lee.af/devtools-opinions/)
 - [Building our own video conferencing solution with daily.co](https://lee.af/meet-app/)
 - [Floors and ceilings](https://lee.af/floors-and-ceilings/)
 - [What is hard software](https://lee.af/what-is-hard-software/)
@@ -36,10 +43,6 @@ A pretty good way to get to know how I think about the world of software.
 - [Village Global - Hard Tech w/ Trae Vasallo](https://podcasts.apple.com/us/podcast/requests-for-startups-hard-tech-trae-vassallo-lee-edwards/id1316769266?i=1000444589418)
 - [Neoliberal Podcast - What is Venture Capital?](https://podtail.com/podcast/the-neolib-podcast/getting-to-the-root-of-venture-capital-ft-lee-edwa/)
 
-### Press
-- [The time the San Francisco Chronicle wrote about my Zoom birthday party](https://www.sfchronicle.com/culture/article/Coronavirus-Staying-at-home-many-in-the-Bay-15148763.php)
-- [The time Business Insider wrote about me going to the gym](https://www.businessinsider.com/i-tried-barrys-bootcamp-a-vc-favorite-intense-fitness-program-2019-5)
-
 ### Code
 I still code for fun. A lot of my projects are kind of silly and maybe a bit overly contrived. I'll often choose a technology just to try to learn it, but I still love coding and always do a company's Hello World before investing.
 - our [video conferencing software](https://github.com/rootvc/meet) at Root Ventures, which I called Meet, I think before Google (or at least before I'd heard of Google Meet). Built with the [Daily.co](https://daily.co) API, written about [here](https://lee.af/meet-app/).
@@ -47,3 +50,8 @@ I still code for fun. A lot of my projects are kind of silly and maybe a bit ove
 - we have a mobile web app that lets us manage our Root Ventures office party drink list called [rebar](https://github.com/rootvc/rebar). It uses [Dark](https://darklang.com) on the backend.
 - I built my blog, [lee.af](https://lee.af) backend on self-hosted headless [Ghost](https://ghost.io), hosted on [Heroku](https://heroku.com) ([Code](https://github.com/ledwards/ghost-on-heroku)), and front-end as a [React](https://github.com/facebook/react) single-page app using [create-react-app](https://create-react-app.dev/docs/getting-started/) ([Code](https://github.com/ledwards/gatsby-ghost)) with a modified ghostium theme ([Code](https://github.com/ledwards/ghostium)).
 - I used to be a competitive [Star Wars CCG](https://www.starwarsccg.org/) player and I used the concept of a two-player card table to test out just about every client-to-client sync library out there. That's [Asteroid](https://github.com/ledwards/asteroid), [Skyhopper](https://github.com/ledwards/skyhopper), [Twin-Ion](https://github.com/ledwards/twin-ion)
+
+### In the News
+- [The time the San Francisco Chronicle wrote about my Zoom birthday party](https://www.sfchronicle.com/culture/article/Coronavirus-Staying-at-home-many-in-the-Bay-15148763.php)
+- [The time Business Insider wrote about me going to the gym](https://www.businessinsider.com/i-tried-barrys-bootcamp-a-vc-favorite-intense-fitness-program-2019-5)
+
