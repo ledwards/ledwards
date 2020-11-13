@@ -11,6 +11,8 @@ I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/r
 
 ### Companies I work with
 
+👨‍🚀 [__Alan Technologies__](https://alan-lang.org) ([GitHub](https://github.com/alantech/alan), [Docs](https://docs.alan-lang.org/), [Blog](https://alan-lang.org/blog.html), [Community](https://discord.com/invite/XatB9we)) makes the Open Source programming language Alan, the first language designed from the ground up to support distributed systems programming effortlessly. Due to its unique langauge design, the Alan runtime is able to estimate each instruction's execution time from the DAG, and whether a given operation will run more efficiently locally or seamlessly across its distributed backend. Like Rust does for threads, the Alan language enforces distributed systems safety at the langauge design and compiler level.
+
 🐙 [__Okteto__](https://okteto.com) ([GitHub](https://github.com/okteto), [Docs](https://okteto.com/docs/getting-started)) is Heroku review apps for every cloud, every language, every architecture. Okteto is Kubernetes-native, but your app doesn't have to be. It creates ephemeral, high fidelity replicas of production for your development workflow, pull request, QA deploy, or sales environment.
 
 🌊 [__Meroxa__](https://meroxa.io) ([GitHub](https://github.com/meroxa), [Docs](https://docs.meroxa.com/docs)) is the easy button for data engineering. The first suite of products builds real-time data streams between data sources like relational databases and data sinks like enterprise data warehouses. Meroxa's user experience is heavily inspired by Heroku, where Co-Founder/CEO [DeVaris Brown](https://github.com/devarismeroxa) was Director of Developer Experience (DX).
