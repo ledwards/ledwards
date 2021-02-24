@@ -1,7 +1,7 @@
 ## Hi, I'm Lee! 👋 My GitHub profile is my homepage now.
 🏳️‍🌈 Pronouns: he/him
 
-I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/rootvc)) in San Francisco focused on investing in Seed-stage companies working on what I call [hard software](https://lee.af/what-is-hard-software) - tools and services for developers, data scientists & engineers, and other technical folks; as well as startups where AI & machine learning are the core technology. I love working with software engineers of all kinds. If your founding team are great engineers, and that's a good thing, because you're going to need it for what you're building - we'd love to talk to you.
+I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/rootvc)) in San Francisco focused on investing in Seed-stage companies working on what I call [hard software](https://lee.af/what-is-hard-software) - tools and services for developers, data scientists & engineers, other technical roles, and tools to give non-technical folks those superpowers; as well as startups where AI & machine learning are the core technology. I love working with software engineers of all kinds. If your founding team are great engineers, and that's a good thing, because you're going to need it for what you're building - we'd love to talk to you.
 
 ### What I invest in
 - We invest in hard tech [(What does that mean?)](https://lee.af/hard-tech/)
