@@ -25,15 +25,6 @@ I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/r
 
 📅 [__Daily__ ](https://daily.co) ([GitHub](https://github.com/daily-co), [Docs](https://docs.daily.co/docs/reference-docs)) is the only single-line API to robust video chat, using the Open Source WebRTC protocol for P2P E2E encypted live video chat. It's used by companies like [Tandem](https://tandem.chat), [Screen](https://screen.so), and [Focusmate](https://focusmate.com), and [Standuply](https://standuply.com). I have two side projects using Daily, [Meet](https://github.com/rootvc/meet) and [Roulette](https://github.com/ledwards/roulette).
 
-🍣 [__Wild Type__](https://www.wildtypefoods.com) is doing the extremely sci-fi work of replacing meat from animals with cell-cultured meat. More about that [here](https://thespoon.tech/wild-type-debuts-new-cultured-salmon-in-largest-tasting-of-lab-grown-meat/).
-
-### Clubhouse
-I'm on [Clubhouse](https://www.joinclubhouse.com/) a lot. There are a few shows I host regularly:
-- [Hello, World!](https://thehelloworld.club/Hello-World-b2187ac1738d42d98c6a4f7a4466cc72), the programming club.
-- [Tech News Afterparty at 11pm](https://www.joinclubhouse.com/event/ePr1K45m)
-- Wine + Tech, Monday at 8pm Pacific
-- Various Startup Club events
-
 ### Writing
 A few highlights
 - [My contrarian opinions about devtools](https://lee.af/devtools-opinions/)
@@ -68,3 +59,9 @@ I still code for fun. A lot of my projects are kind of silly and maybe a bit ove
 - [The time the San Francisco Chronicle wrote about my Zoom birthday party](https://www.sfchronicle.com/culture/article/Coronavirus-Staying-at-home-many-in-the-Bay-15148763.php)
 - [The time Business Insider wrote about me going to the gym](https://www.businessinsider.com/i-tried-barrys-bootcamp-a-vc-favorite-intense-fitness-program-2019-5)
 
+### Clubhouse
+I'm on [Clubhouse](https://www.joinclubhouse.com/) a lot. There are a few shows I host regularly:
+- [Hello, World!](https://thehelloworld.club/Hello-World-b2187ac1738d42d98c6a4f7a4466cc72), the programming club.
+- [Tech News Afterparty at 11pm](https://www.joinclubhouse.com/event/ePr1K45m)
+- Wine + Tech, Monday at 8pm Pacific
+- Various Startup Club events
