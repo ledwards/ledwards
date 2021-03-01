@@ -40,6 +40,7 @@ A few highlights
 
 ### Podcasts & Videos
 A pretty good way to get to know how I think about the world of software.
+- CTO Connection - How to pick the right startup [[video](https://vimeo.com/514070087/0cfbafa6cd), [podcast](https://podcast.ctoconnection.com/episodes/short-byte:-lee-edwards---how-to-pick-the-right-tech-startup)]
 - [VC Hunting - My First Year at Root](https://vchunting.com/lee-edwards/)
 - [Corecursive - Investing in Open Source](https://corecursive.com/043-lee-edwards-developer-tools/)
 - [Sand Hill Road - Financing Hard Tech](https://www.youtube.com/watch?v=k4hZxxGHdjI&feature=youtu.be)
@@ -56,6 +57,7 @@ I still code for fun. A lot of my projects are kind of silly and maybe a bit ove
 - I used to be a competitive [Star Wars CCG](https://www.starwarsccg.org/) player and I used the concept of a two-player card table to test out just about every client-to-client sync library out there. That's [Asteroid](https://github.com/ledwards/asteroid), [Skyhopper](https://github.com/ledwards/skyhopper), [Twin-Ion](https://github.com/ledwards/twin-ion)
 
 ### In the News
+- [The time I got in f-bomb into the headline of a Business Insider article](https://www.businessinsider.com/seed-funds-are-under-existential-threat-from-venture-giants-2021-2)
 - [The time the San Francisco Chronicle wrote about my Zoom birthday party](https://www.sfchronicle.com/culture/article/Coronavirus-Staying-at-home-many-in-the-Bay-15148763.php)
 - [The time Business Insider wrote about me going to the gym](https://www.businessinsider.com/i-tried-barrys-bootcamp-a-vc-favorite-intense-fitness-program-2019-5)
 
