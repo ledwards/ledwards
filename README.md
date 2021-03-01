@@ -27,6 +27,13 @@ I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/r
 
 🍣 [__Wild Type__](https://www.wildtypefoods.com) is doing the extremely sci-fi work of replacing meat from animals with cell-cultured meat. More about that [here](https://thespoon.tech/wild-type-debuts-new-cultured-salmon-in-largest-tasting-of-lab-grown-meat/).
 
+### Clubhouse
+I'm on [Clubhouse](https://www.joinclubhouse.com/) a lot. There are a few shows I host regularly:
+- [Hello, World!](https://thehelloworld.club/Hello-World-b2187ac1738d42d98c6a4f7a4466cc72), the programming club.
+- [Tech News Afterparty at 11pm](https://www.joinclubhouse.com/event/ePr1K45m)
+- Wine + Tech, Monday at 8pm Pacific
+- Various Startup Club events
+
 ### Writing
 A few highlights
 - [My contrarian opinions about devtools](https://lee.af/devtools-opinions/)
