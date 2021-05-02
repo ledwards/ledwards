@@ -11,6 +11,10 @@ I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/r
 
 ### Companies I work with
 
+👤 unannounced awesome data privacy company
+
+📝 unannounced awesome company founded by former GitHubbers
+
 👨‍🚀 [__Alan Technologies__](https://alan-lang.org) ([GitHub](https://github.com/alantech/alan), [Docs](https://docs.alan-lang.org/), [Blog](https://alan-lang.org/blog.html), [Community](https://discord.com/invite/XatB9we)) makes the Open Source programming language Alan, the first language designed from the ground up to support distributed systems programming effortlessly. Due to its unique language design, the Alan runtime is able to estimate each instruction's execution time from the DAG, and whether a given operation will run more efficiently locally or seamlessly across its distributed backend. Like Rust does for threads, the Alan language enforces distributed systems safety at the language design and compiler level. I did the first week of Advent of Code 2020 with Alan, which you can see [here](https://github.com/ledwards/advent-2020). (And I helped with two issues in the compiler!)
 
 🐙 [__Okteto__](https://okteto.com) ([GitHub](https://github.com/okteto), [Docs](https://okteto.com/docs/getting-started)) is Heroku review apps for every cloud, every language, every architecture. Okteto is Kubernetes-native, but your app doesn't have to be. It creates ephemeral, high fidelity replicas of production for your development workflow, pull request, QA deploy, or sales environment.
@@ -24,6 +28,9 @@ I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/r
 👾 [__Esper__](https://esper.io) ([GitHub](https://esper-io), [Docs](https://docs.esper.io/)) provides a suite of tools to help build and maintain enterprise Android devices at the edge with a modern devops approach. The Esper platform includes an Android Studio plugin, command line tools, API client libraries, and an enterprise-focused Android-based operating system, cloud services such as logging, deployment, update, device provisioning, APM, abd remote login.
 
 📅 [__Daily__ ](https://daily.co) ([GitHub](https://github.com/daily-co), [Docs](https://docs.daily.co/docs/reference-docs)) is the only single-line API to robust video chat, using the Open Source WebRTC protocol for P2P E2E encypted live video chat. It's used by companies like [Tandem](https://tandem.chat), [Screen](https://screen.so), and [Focusmate](https://focusmate.com), and [Standuply](https://standuply.com). I have two side projects using Daily, [Meet](https://github.com/rootvc/meet) and [Roulette](https://github.com/ledwards/roulette).
+
+### Open Source Deal Memos
+- [Meroxa (7/17/2020)](https://github.com/rootvc/investment-memos/blob/main/meroxa.md)
 
 ### Writing
 A few highlights
