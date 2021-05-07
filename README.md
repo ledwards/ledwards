@@ -13,7 +13,7 @@ I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/r
 
 👤 unannounced awesome data privacy company
 
-📝 unannounced awesome company founded by former GitHubbers
+📝 unannounced awesome developer tool founded by former GitHubbers
 
 👨‍🚀 [__Alan Technologies__](https://alan-lang.org) ([GitHub](https://github.com/alantech/alan), [Docs](https://docs.alan-lang.org/), [Blog](https://alan-lang.org/blog.html), [Community](https://discord.com/invite/XatB9we)) makes the Open Source programming language Alan, the first language designed from the ground up to support distributed systems programming effortlessly. Due to its unique language design, the Alan runtime is able to estimate each instruction's execution time from the DAG, and whether a given operation will run more efficiently locally or seamlessly across its distributed backend. Like Rust does for threads, the Alan language enforces distributed systems safety at the language design and compiler level. I did the first week of Advent of Code 2020 with Alan, which you can see [here](https://github.com/ledwards/advent-2020). (And I helped with two issues in the compiler!)
 
