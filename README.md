@@ -13,9 +13,11 @@ I built our fun little website: [here](https://root.vc)
 
 ### Companies I work with
 
+🔐 unannounced awesome developer API company
+
 👤 unannounced awesome data privacy company
 
-📝 unannounced awesome developer tool founded by former GitHubbers
+📝 [__Zed__](https://zed.dev) is the real-time multiplayer collaborative text editor, written in Rust, so it's multi-threaded, blazing fast, and desktop-native. The [team](https://zed.dev/team) comes from GitHub (Atom and Electron,) and authored the best Rust desktop UI framework (released soon,) and the [tree-sitter](https://tree-sitter.github.io/tree-sitter/) parsing library. Coming soon!
 
 👨‍🚀 [__Alan Technologies__](https://alan-lang.org) ([GitHub](https://github.com/alantech/alan), [Docs](https://docs.alan-lang.org/), [Blog](https://alan-lang.org/blog.html), [Community](https://discord.com/invite/XatB9we)) makes the Open Source programming language Alan, the first language designed from the ground up to support distributed systems programming effortlessly. Due to its unique language design, the Alan runtime is able to estimate each instruction's execution time from the DAG, and whether a given operation will run more efficiently locally or seamlessly across its distributed backend. Like Rust does for threads, the Alan language enforces distributed systems safety at the language design and compiler level. I did the first week of Advent of Code 2020 with Alan, which you can see [here](https://github.com/ledwards/advent-2020). (And I helped with two issues in the compiler!)
 
@@ -49,6 +51,7 @@ A few highlights
 
 ### Podcasts & Videos
 A pretty good way to get to know how I think about the world of software.
+- [#thisisnotadvice Day 211](https://www.youtube.com/watch?v=nQWHU5D1Ws4)
 - CTO Connection - How to pick the right startup [[video](https://vimeo.com/514070087/0cfbafa6cd), [podcast](https://podcast.ctoconnection.com/episodes/short-byte:-lee-edwards---how-to-pick-the-right-tech-startup)]
 - [VC Hunting - My First Year at Root](https://vchunting.com/lee-edwards/)
 - [Corecursive - Investing in Open Source](https://corecursive.com/043-lee-edwards-developer-tools/)
