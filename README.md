@@ -13,6 +13,8 @@ I built our fun little website: [here](https://root.vc)
 
 ### Companies I work with
 
+📷 unannounced awesome computer vision developer tools company
+
 🔐 unannounced awesome developer API company
 
 👤 unannounced awesome data privacy company
