@@ -53,6 +53,7 @@ A few highlights
 
 ### Podcasts & Videos
 A pretty good way to get to know how I think about the world of software.
+- [Data Nerd Herd - Investing in Hard Tech Startups](https://www.youtube.com/watch?v=FoS0Ovsa-4k)
 - [#thisisnotadvice Day 211](https://www.youtube.com/watch?v=nQWHU5D1Ws4)
 - CTO Connection - How to pick the right startup [[video](https://vimeo.com/514070087/0cfbafa6cd), [podcast](https://podcast.ctoconnection.com/episodes/short-byte:-lee-edwards---how-to-pick-the-right-tech-startup)]
 - [VC Hunting - My First Year at Root](https://vchunting.com/lee-edwards/)
@@ -74,10 +75,3 @@ I still code for fun. A lot of my projects are kind of silly and maybe a bit ove
 - [The time I got in f-bomb into the headline of a Business Insider article](https://www.businessinsider.com/seed-funds-are-under-existential-threat-from-venture-giants-2021-2)
 - [The time the San Francisco Chronicle wrote about my Zoom birthday party](https://www.sfchronicle.com/culture/article/Coronavirus-Staying-at-home-many-in-the-Bay-15148763.php)
 - [The time Business Insider wrote about me going to the gym](https://www.businessinsider.com/i-tried-barrys-bootcamp-a-vc-favorite-intense-fitness-program-2019-5)
-
-### Clubhouse
-I'm on [Clubhouse](https://www.joinclubhouse.com/) a lot. There are a few shows I host regularly:
-- [Hello, World!](https://thehelloworld.club/Hello-World-b2187ac1738d42d98c6a4f7a4466cc72), the programming club.
-- [Tech News Afterparty at 11pm](https://www.joinclubhouse.com/event/ePr1K45m)
-- Wine + Tech, Monday at 8pm Pacific
-- Various Startup Club events
