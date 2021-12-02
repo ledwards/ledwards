@@ -17,7 +17,7 @@ I built our fun little website: [here](https://root.vc)
 
 🔐 unannounced awesome developer API company
 
-👤 unannounced awesome data privacy company
+👤 [__Privacy Dynamics__](https://privacydynamics.io) gives developers best-in-class data privacy practices by default. Today, it integrates seemlessly with your data warehouse. Using cutting edge data privacy techniques combined with your input and specified requirements, Privacy Dynamics creates safe versions of sensitive tables for everyday use, as well as comprehensive privacy reports that can be used to guarantee compliance with the large number of disparate data privacy regulations around the world that now cover more than 3/4 of the world's population.
 
 📝 [__Zed__](https://zed.dev) is the real-time multiplayer collaborative text editor, written in Rust, so it's multi-threaded, blazing fast, and desktop-native. The [team](https://zed.dev/team) comes from GitHub (Atom and Electron,) and authored the best Rust desktop UI framework (released soon,) and the [tree-sitter](https://tree-sitter.github.io/tree-sitter/) parsing library. Coming soon!
 
