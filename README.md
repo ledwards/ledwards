@@ -13,6 +13,8 @@ I built our fun little website: [here](https://root.vc)
 
 ### Companies I work with
 
+📊 unannounced awesome SaaS product for software creators company
+
 📷 unannounced awesome computer vision developer tools company
 
 🔐 unannounced awesome developer API company
@@ -36,7 +38,10 @@ I built our fun little website: [here](https://root.vc)
 📅 [__Daily__ ](https://daily.co) ([GitHub](https://github.com/daily-co), [Docs](https://docs.daily.co/docs/reference-docs)) is the only single-line API to robust video chat, using the Open Source WebRTC protocol for P2P E2E encypted live video chat. It's used by companies like [Tandem](https://tandem.chat), [Screen](https://screen.so), and [Focusmate](https://focusmate.com), and [Standuply](https://standuply.com). I have two side projects using Daily, [Meet](https://github.com/rootvc/meet) and [Roulette](https://github.com/ledwards/roulette).
 
 ### Open Source Deal Memos
+- [Privacy Dynamics (2021)](https://github.com/rootvc/investment-memos/blob/main/privacy_dynamics.md)
+- [Okteto (2020)](https://github.com/rootvc/investment-memos/blob/main/okteto.md)
 - [Meroxa (2020)](https://github.com/rootvc/investment-memos/blob/main/meroxa.md)
+- [Daily (2019)](https://github.com/rootvc/investment-memos/blob/main/daily.md)
 - [Superconductive (2019)](https://github.com/rootvc/investment-memos/blob/main/superconductive.md)
 - [Esper (2018)](https://github.com/ledwards/investment-memos/blob/main/esper.md)
 
