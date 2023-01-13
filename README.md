@@ -13,7 +13,9 @@ I built our fun little website: [here](https://root.vc)
 
 ### Companies I work with
 
-📊 unannounced awesome SaaS product for software creators company
+📊 unannounced awesome collaborative tool for analysts
+
+📈 unannounced awesome SaaS product for software creators company
 
 ⚙️ unannounced awesome tool for data scientists and machine learning engineers
 
@@ -27,13 +29,13 @@ I built our fun little website: [here](https://root.vc)
 
 📝 [__Zed__](https://zed.dev) is the real-time multiplayer collaborative text editor, written in Rust, so it's multi-threaded, blazing fast, and desktop-native. The [team](https://zed.dev/team) comes from GitHub (Atom and Electron,) and authored the best Rust desktop UI framework (released soon,) and the [tree-sitter](https://tree-sitter.github.io/tree-sitter/) parsing library. Coming soon!
 
-👨‍🚀 [__Alan Technologies__](https://alan-lang.org) ([GitHub](https://github.com/alantech/alan), [Docs](https://docs.alan-lang.org/), [Blog](https://alan-lang.org/blog.html), [Community](https://discord.com/invite/XatB9we)) makes the Open Source programming language Alan, the first language designed from the ground up to support distributed systems programming effortlessly. Due to its unique language design, the Alan runtime is able to estimate each instruction's execution time from the DAG, and whether a given operation will run more efficiently locally or seamlessly across its distributed backend. Like Rust does for threads, the Alan language enforces distributed systems safety at the language design and compiler level. I did the first week of Advent of Code 2020 with Alan, which you can see [here](https://github.com/ledwards/advent-2020). (And I helped with two issues in the compiler!)
+👨‍🚀 [__IaSql__](https://iasql.com) ([GitHub](https://github.com/iasql), [Docs](https://docs.iasql.com/), [Blog](https://iasql.com/blog), [Community](https://discord.com/invite/yxNBQugGbH)) is a next-generation way to configure and deploy software that builds and improves on the concept of infrastructure as code with stateful infrastructure configuration. IaSQL creates tables for available cloud infrastructure types and allows team to provision them with SQL. This brings a lot of advantages along with it. Powerful permissions that can be broad or very granular, the ability for analyze and audit infrastructure use, and the ability to script not only the provisioning of infrastructure, but querying its state programmtically.
 
 🐙 [__Okteto__](https://okteto.com) ([GitHub](https://github.com/okteto), [Docs](https://okteto.com/docs/getting-started), [Memo](https://github.com/rootvc/investment-memos/blob/main/okteto.md)) is Heroku review apps for every cloud, every language, every architecture. Okteto is Kubernetes-native, but your app doesn't have to be. It creates ephemeral, high fidelity replicas of production for your development workflow, pull request, QA deploy, or sales environment.
 
 🌊 [__Meroxa__](https://meroxa.io) ([GitHub](https://github.com/meroxa), [Docs](https://docs.meroxa.com/docs), [Memo](https://github.com/rootvc/investment-memos/blob/main/meroxa.md)) is the easy button for data engineering. The first suite of products builds real-time data streams between data sources like relational databases and data sinks like enterprise data warehouses. Meroxa's user experience is heavily inspired by Heroku, where Co-Founder/CEO [DeVaris Brown](https://github.com/devarismeroxa) was Director of Developer Experience (DX).
 
-⚡ [__Superconductive__](https://superconductive.com) ([GitHub](https://github.com/superconductive), [Docs](https://github.com/great-expectations/great_expectations/blob/develop/README.md), [Memo](https://github.com/rootvc/investment-memos/blob/main/superconductive.md)) maintains the popular Open Source project [Great Expectations](https://github.com/great-expectations/great_expectations), which provides a suite of unit test-like expectations and a test runner to help data teams build robust data ecosystems and pay down [pipeline debt](https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a).
+⚡ [__Great Expectations__](https://greatexpectations.io) ([GitHub](https://github.com/great-expectations/great_expectations), [Docs](https://github.com/great-expectations/great_expectations/blob/develop/README.md), [Memo](https://github.com/rootvc/investment-memos/blob/main/superconductive.md)) maintains the popular Open Source project [Great Expectations](https://github.com/great-expectations/great_expectations), which provides a suite of unit test-like expectations and a test runner to help data teams build robust data ecosystems and pay down [pipeline debt](https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a).
 
 #️⃣ [__HASH__](https://hash.ai) ([GitHub](https://github.com/hashintel), [Docs](https://docs.hash.ai/core/hello-world/hello-hash)) is a web-based service for building models and simulations, particularly [agent-based models and simulations](https://journal.sohostrategy.com/what-is-abm-abms-f52ff2f1f712) that draws some inspiration from [Glitch](https://glitch.com) (HASH's Chairman is Glitch founder [Joel Spolsky](https://joelonsoftware.com)). Some great examples here: [COVID-19](https://hash.ai/coronavirus).
 
