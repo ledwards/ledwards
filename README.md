@@ -53,6 +53,7 @@ I built our fun little website: [here](https://root.vc)
 
 ### Writing
 A few highlights
+- [Breaking orthodoxies in venture capital - Sar Haribhakti](https://sarharibhakti.substack.com/p/breaking-orthodoxies-in-venture-capital)
 - [My contrarian opinions about devtools](https://lee.af/devtools-opinions/)
 - [Building our own video conferencing solution with daily.co](https://lee.af/meet-app/)
 - [Floors and ceilings](https://lee.af/floors-and-ceilings/)
@@ -64,6 +65,7 @@ A few highlights
 
 ### Podcasts & Videos
 A pretty good way to get to know how I think about the world of software.
+- [Seeding Bold Engineers - Software Engineering Daily](https://softwareengineeringdaily.com/2023/02/23/seeding-bold-engineers/)
 - [Data Nerd Herd - Investing in Hard Tech Startups](https://www.youtube.com/watch?v=FoS0Ovsa-4k)
 - [#thisisnotadvice Day 211](https://www.youtube.com/watch?v=nQWHU5D1Ws4)
 - CTO Connection - How to pick the right startup [[video](https://vimeo.com/514070087/0cfbafa6cd), [podcast](https://podcast.ctoconnection.com/episodes/short-byte:-lee-edwards---how-to-pick-the-right-tech-startup)]
