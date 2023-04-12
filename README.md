@@ -13,13 +13,15 @@ I built our fun little website: [here](https://root.vc)
 
 ### Companies I work with
 
+🤖 unannounced AI-related workflow automation company
+
 📊 unannounced awesome collaborative tool for analysts
 
 📈 unannounced awesome SaaS product for software creators company
 
 ⚙️ unannounced awesome tool for data scientists and machine learning engineers
 
-🤖 [__Adept__](https://adept.ai) is building useful general intelligence. Founded by alumni executives from Open AI and Google Brain, as prolific researchers and authors of the most important papers in transformers and other areas of deep learning, Adept will take a customer-first rather than research-first approach to general intelligence.
+🧠 [__Adept__](https://adept.ai) is building useful general intelligence. Founded by alumni executives from Open AI and Google Brain, as prolific researchers and authors of the most important papers in transformers and other areas of deep learning, Adept will take a customer-first rather than research-first approach to general intelligence.
 
 📷 [__Aperture Data__](https://aperturedata.io) manages images and videos with a database purpose-built for data science and machine learning. The way that graph databses treat graph data, by creating higher level abstractions for storage and queries. Aperture stores your images and videos alongside metadata like labels and allows for custom models to be used in queries. This allows developers and data scientists to ask the database for e.g. all the images with cats, or other questions that exist in the conceptual domain of visual data.
 
