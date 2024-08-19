@@ -13,6 +13,8 @@ I built our fun little website: [here](https://root.vc)
 
 ### Companies I work with
 
+🔎 [__Treive__](https://trieve.ai) provides in-app and onsite search using advanced AI techniques for better results. Customers of Trieve are able to provide their users with a search experience that is more like using Google than using text-matching. This translates to lift in every important business metric.
+
 🤖 unannounced AI-related workflow automation company
 
 📊 unannounced awesome collaborative tool for analysts
