@@ -1,14 +1,13 @@
 ## Hi, I'm Lee! 👋 My GitHub profile is my homepage now.
 🏳️‍🌈 Pronouns: he/him
 
-I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/rootvc)) in San Francisco focused on investing in Seed-stage companies working on what I call [hard software](https://lee.af/what-is-hard-software) - tools and services for developers, data scientists & engineers, other technical roles, and tools to give non-technical folks those superpowers; as well as startups where AI & machine learning are the core technology. I love working with software engineers of all kinds. If your founding team are great engineers, and that's a good thing, because you're going to need it for what you're building - we'd love to talk to you.
+I'm a Partner at [Root Ventures](https://root.vc) ([GitHub](https://github.com/rootvc)) in San Francisco focused on investing in Seed-stage companies working on what I call hard software](https://ledwards.com/what-is-hard-software.html) - tools and services for developers, data scientists & engineers, other technical roles, and tools to give non-technical folks those superpowers; as well as startups where AI & machine learning are the core technology. I love working with software engineers of all kinds. If your founding team are great engineers, and that's a good thing, because you're going to need it for what you're building - we'd love to talk to you.
 
 I built our fun little website: [here](https://root.vc)
 
 ### What I invest in
-- We invest in hard tech [(What does that mean?)](https://lee.af/hard-tech/)
-- ...at the seed stage (or pre-seed, or post-seed.)
-- I often ask these [questions](https://lee.af/what-is-hard-software/) before investing.
+- We invest in hard tech [(What does that mean?)](https://ledwards.com/hard-tech.html)
+- leading or co-leading seed rounds (or pre-seed, or post-seed.)
 - This is how I think about the [developer tools](https://twitter.com/terronk/status/1286774556317818880) and [gamedev tools](https://twitter.com/terronk/status/1298084339037528064) industries.
 
 ### Companies I work with
@@ -42,14 +41,14 @@ I built our fun little website: [here](https://root.vc)
 
 ### Writing
 A few highlights
-- [My contrarian opinions about devtools](https://lee.af/devtools-opinions/)
-- [Building our own video conferencing solution with daily.co](https://lee.af/meet-app/)
-- [Floors and ceilings](https://lee.af/floors-and-ceilings/)
-- [What is hard software](https://lee.af/what-is-hard-software/)
-- [If you learn these 3 things, you can make anything](https://lee.af/if-you-learn-these-3-things-you-can-make-anything/)
-- [Developer tools are enterprise software](https://lee.af/developer-tools-are-enterprise-software/)
-- [Developer tools are consumer software](https://lee.af/developer-tools-are-consumer-software/)
-- [Hard tech](https://lee.af/hard-tech/)
+- [My contrarian opinions about devtools](https://ledwards.com/devtools-opinions.html)
+- [Building our own video conferencing solution with daily.co](https://ledwards.com/meet-app.html)
+- [Floors and ceilings](https://ledwards.com/floors-and-ceilings.html)
+- [What is hard software](https://ledwards.com/what-is-hard-software.html)
+- [If you learn these 3 things, you can make anything](https://ledwards.com/3-things.html)
+- [Developer tools are enterprise software](https://ledwards.com/devtools-enterprise.html)
+- [Developer tools are consumer software](https://ledwards.com/devtools-consumer.html)
+- [Hard tech](https://ledwards.com/hard-tech.html)
 
 ### Podcasts & Videos
 A pretty good way to get to know how I think about the world of software.
@@ -65,10 +64,11 @@ A pretty good way to get to know how I think about the world of software.
 
 ### Code
 I still code for fun. A lot of my projects are kind of silly and maybe a bit overly contrived. I'll often choose a technology just to try to learn it, but I still love coding and always do a company's Hello World before investing.
-- our [video conferencing software](https://github.com/rootvc/meet) at Root Ventures, which I called Meet, I think before Google (or at least before I'd heard of Google Meet). Built with the [Daily.co](https://daily.co) API, written about [here](https://lee.af/meet-app/).
+- our [video conferencing software](https://github.com/rootvc/meet) at Root Ventures, which I called Meet, I think before Google (or at least before I'd heard of Google Meet). Built with the [Daily.co](https://daily.co) API, written about [here](https://ledwards.com/meet-app.html).
 - a [Chat Roulette clone](https://github.com/ledwards/roulette) built with the [Daily.co](https://daily.co) API.
 - we have a mobile web app that lets us manage our Root Ventures office party drink list called [rebar](https://github.com/rootvc/rebar). It uses [Dark](https://darklang.com) on the backend.
-- I built my blog, [lee.af](https://lee.af) backend on self-hosted headless [Ghost](https://ghost.io), hosted on [Heroku](https://heroku.com) ([Code](https://github.com/ledwards/ghost-on-heroku)), and front-end as a [React](https://github.com/facebook/react) single-page app using [create-react-app](https://create-react-app.dev/docs/getting-started/) ([Code](https://github.com/ledwards/gatsby-ghost)) with a modified ghostium theme ([Code](https://github.com/ledwards/ghostium)).
+- I built my blog, [ledwards.com](https://ledwards.com) backend on self-hosted headless [Ghost](https://ghost.io), hosted on [Heroku](https://heroku.com) ([Code](https://github.com/ledwards/ghost-on-heroku)), and front-end as a [React](https://github.com/facebook/react) single-page app using [create-react-app](https://create-react-app.dev/docs/getting-started/) ([Code](https://github.com/ledwards/gatsby-ghost)) with a modified ghostium theme ([Code](https://github.com/ledwards/ghostium)).
+- But then I abandonded it and just use Jekyll with GitHub Pages ([Code](https://github.com/ledwards/ledwards.github.io))
 - I used to be a competitive [Star Wars CCG](https://www.starwarsccg.org/) player and I used the concept of a two-player card table to test out just about every client-to-client sync library out there. That's [Asteroid](https://github.com/ledwards/asteroid), [Skyhopper](https://github.com/ledwards/skyhopper), [Twin-Ion](https://github.com/ledwards/twin-ion)
 
 ### In the News
